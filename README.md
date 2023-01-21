@@ -1,4 +1,5 @@
-# GEOG-676-Spring23
+# Brett Sweezey
+## GEOG-676-Spring23
 |Labs                      |
 |:------------------------:|
 |[Lab_01](Lab_01/README.md)|
