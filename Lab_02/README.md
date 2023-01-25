@@ -1,1 +1,2 @@
-# GEOG-676-Spring23
+# Brett Sweezey
+## GEOG-676_Lab02
