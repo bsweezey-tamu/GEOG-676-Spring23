@@ -6,7 +6,7 @@ arcpy.env.workspace = r'C:\DevSource\GEOG-676-Spring23\Lab_04\codes_env'
 folder_path = r'C:\DevSource\GEOG-676-Spring23\Lab_04'
 gdb_name = 'Lab04.gdb'
 gdb_path = folder_path + '\\' + gdb_name
-arcpy.CreateFileGDB_management(folder_path, gdb_name)
+#arcpy.CreateFileGDB_management(folder_path, gdb_name)
 
 csv_path = r"C:\DevSource\GEOG-676-Spring23\Lab_04\garages.csv"
 garage_layer_name = 'Garage_Points'
