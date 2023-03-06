@@ -11,7 +11,7 @@ Languages, Software, and Database Construction
 ------
 The proposed tool will be developed through the use of the coding language Python, due to its versatility, ease of use, and accessibility compared to other commonly used langauges. The benefit of using Python will allow the end users with limited coding experience to have an increased likelihood of understanding and customizing the proposed software (if they find that necessary). One benefit of using Python for this tool is due to the seemless transition of Python code with ArcGIS through the ArcPy package established by ESRI. In order for the end user to have full access and integration of the proposed tool, it is recommended that they have access to Python, Visual Studio Code, GitHub, Git Extensions, ArcGIS Pro, and ArcPy.
 
-### _Visual Studio Code_
+   ### _Visual Studio Code_
 Visual Studio Code (VSC) is an open-source code editor designed for writing and debugging modern web and cloud applications. VSC will be useful due to the similarities outline with Python listed above (versatility, ease of use, accessibility) and it is free on all major computing platorms. Python can be easiliy integrated into VSC through installing the 'Python' package which will ease the production of the coding process as well as use a simple user interface (UI) which is easily understandable for the end user. 
 
 ### _GitHub_
