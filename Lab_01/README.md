@@ -6,4 +6,7 @@ Lab_01 is designed to help set up the student's Github repository and create a t
   * Downloaded class repository to personal machine
   * Downloaded and install ArcPro GIS program
   * Covered the basics of Python coding (variables, data types)
-  * Scripts written in Python within Visual Studio Code can be used to develop procedure for master well location project
+  
+Master Well Database
+======
+Scripts written in Python within Visual Studio Code can be used to develop procedure for master well location project
