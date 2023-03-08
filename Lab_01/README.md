@@ -8,5 +8,5 @@ Lab_01 is designed to help set up the student's Github repository and create a t
   * Covered the basics of Python coding (variables, data types)
   
 Master Well Database
-======
+------
 Scripts written in Python within Visual Studio Code can be used to develop procedure for master well location project
