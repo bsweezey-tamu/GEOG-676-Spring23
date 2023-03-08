@@ -34,4 +34,12 @@ To streamline the collection of data for the end user, databases used for this p
 
 Project Outline
 ------
-1. The script for the Master Wells Database will be written using the Python coding language integrated with VSC and the ArcPy package. Once this is created, the original code will be uploaded to a private repository on Github which will be accessible to trusted individuals. The software tool will be uploaded to a public repository which can be created and accessed using the examples created in [Lab 1](
+1. The script for the Master Wells Database will be written using the Python coding language integrated with VSC and the ArcPy package. Once this is created, the original code will be uploaded to a private repository on Github which will be accessible to trusted individuals. The software tool will be uploaded to a public repository which can be created and accessed using the examples created in [Lab 1](https://github.com/bsweezey-tamu/GEOG-676-Spring23/tree/main/Lab_01).
+
+2. The well geolocation information from each individal database will be compared against each other to estimate how accurate the well locations are in comparison to each other. Scripts (such as those developed in [Lab 2](https://github.com/bsweezey-tamu/GEOG-676-Spring23/blob/main/Lab_02/lab02_python_script.py) will be developed in Python which will determine the difference in longitude and latitude (X and Y coordinates) measurements and update this information which a matching field ID. This script will allows users to determine the inaccuracy of well locations within certain regions for particular databases. 
+
+3. The various data sources used to supply well location information for this project (CAD, Decision Sapce Geographics, Petrel, OpenWells, COMPASS, and state regulatory databases) will be placed online into a public repository to allow the end user easier access to this information. Python script will be developed for user's to easily access information from each individual data base which will open the file, read the contents, and create variables which will be used for future actions. This will create a more streamlined method for end user's to visual the information that will be placed within the Master Well Database and that information will be found in [Lab 3](https://github.com/bsweezey-tamu/GEOG-676-Spring23/blob/main/Lab_03/lab03_python_shape.py)
+
+4. Information regarding the accuracy of well location coordinates from the various databases will be placed within our Master Well Location database. Python script will be created to write files to the Master Well Location geodatabase seen in this exercise (Lab 4)[https://github.com/bsweezey-tamu/GEOG-676-Spring23/blob/main/Lab_04/lab04_code.py]
+
+5. 
